@@ -2,3 +2,4 @@ name: rise-environment
 dependencies:
   - python
   - rise
+  - emoji
