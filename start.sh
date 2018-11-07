@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-mkdir venv && cd venv && python3 -m venv .
+mkdir venv && cd venv && python3.6 -m venv .
 source venv/bin/activate
 pip3 install --upgrade pip
 pip3 install --upgrade ipython jupyter RISE
